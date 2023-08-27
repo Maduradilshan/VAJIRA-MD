@@ -1,11 +1,11 @@
   <p align="center">  
-  <a href="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <h1 align="center"> PRABATH-MD </h1>
+  <a href="https://telegra.ph/file/631959a0f58de57fffd6c.jpg">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/631959a0f58de57fffd6c.jpg">
+    <h1 align="center"> VAJIRA-MD </h1>
   </a>
 </p>  
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/KwFkWjI8qJ6B174esar8IM" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
@@ -19,9 +19,9 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{prabathLK}/count.svg" alt="prabathLK :: Visitor's Count" /></p>
 
   
- ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/prabathLK/PRABATH-MD/)***
+ ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/vajirabot1/VAJIRA-MD/)***
 
-
+https://github.com/vajirabot1/VAJIRA-MD/
 ---
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
@@ -39,13 +39,13 @@
 
 ●. ***[SCAN QR CODE](https://prabath-md-qr-web-prabath.koyeb.app/)***
   
-..........................................................
+☘️සමහරවිට පලවෙනි පාර QR එක SCAN කලාට CODE එක එන එකක් නෑ. CODE එක එනකම් SCAN කරන්න(0766943622)☘️.
 
 ●. ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
 
 ●. ***Get a Mongodb uri from [railway.app](https://railway.app).***
 
-●.  ***Click [FORK](https://github.com/prabathLK/PRABATH-MD/fork)***
+●.  ***Click [FORK](https://github.com/vajirabot1/VAJIRA-MD/fork)***
 
 ---
 
